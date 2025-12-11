@@ -66,8 +66,6 @@
 <hr>
 
 <p>:musical_note: I’m currently listening:</p>
- <a href="https://open.spotify.com/playlist/37i9dQZF1DX3bH0P2u6jB5" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.scdn.co/image/ab67706f00000002f4d3b8f9f5f9d9c6e1a2a7b7" alt="Cup of Joe Playlist" width="300" style="border-radius:12px;">
-  </a>
-</p>
+<p>:musical_note: I’m currently listening:</p>
+<p><a href="https://github.com/regchiu/spotify-currently-playing-track"><img src="https://spotify-currently-playing-track.vercel.app/api" alt="My Spotify"></a></p>
 
