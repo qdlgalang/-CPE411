@@ -1,4 +1,8 @@
-<h1 align="left">Welcome!, I'm Dominique L. Galang</h1>
+<h1 align="left">Welcome!, I'm Dominique L. Galang</h1> <div align="center">
+  <img height="200" src="https://tenor.com/view/hello-big-hug-how-are-gif-25993394"  />
+</div>
+
+###
 <h3 align="left">Computer Engineering  at Technological Institute of the Philippines</h3>
 
 <h3 align="left">Languages and Tools:</h3>
