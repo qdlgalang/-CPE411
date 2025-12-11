@@ -1,6 +1,6 @@
 # -CPE411
 Interactive Extended Reality
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="Nikki">Hey 👋What's Up?</h1>
 
 ###
 
