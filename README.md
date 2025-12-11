@@ -1,11 +1,40 @@
 # -CPE411
 Interactive Extended Reality
-<h1 align="center">Hi 👋, I'm Dominique L. Galang</h1>
-<h3 align="center">Currently 2nd year student</h3>
+## Hi there! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm Dominique L. Galang, a passionate developer with a love for creating interactive experiences. Welcome to my GitHub profile!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> </p>
+## About Me
+
+I'm based in Quezon City and I enjoy exploring new technologies and working on exciting projects. My current focus is on developing interactive extended reality applications.
+
+## Skills & Technologies
+
+html,css
+
+## Top Projects
+
+- [CPE411](https://github.com/qdlgalang/-CPE411): Interactive Extended Reality, ⭐️ 0 Stars, Language: Not Specified, Forks: 0, Issues: 0
+
+## GitHub Stats
+
+Public Repositories: 1 | Followers: 0 | Following: 0
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qdlgalang&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Pushed changes to [CPE411](https://github.com/qdlgalang/-CPE411) multiple times.
+- Created the main branch for [CPE411](https://github.com/qdlgalang/-CPE411).
+
+## Latest Blog Posts
+
+No blog posts available yet.
+
+## Connect with Me
+
+{}
+
+## My Talks
+
+- [Talk Title](link-to-talk) - Brief description of the talk
