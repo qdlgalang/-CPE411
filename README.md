@@ -1,6 +1,6 @@
   <h2 align="center"> Welcome!, I'm Dominique L. Galang👋 <br> </h2> 
 <p align="center"><img width="50%" src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&amp;v=2&amp;jpgQuality=100&amp;width=700&amp;url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
-<p align="center"> <samp>Hi, My name is Dominique Galang. I am a Computer Engineering college student. 
+<p align="center"> <samp>Hi, My name is Dominique Galang. I am a Computer Engineering college student. Here's my stack:
 </samp></p><h2 id="tech-stack-computer">Tech Stack :computer:</h2>
 <br>
 
