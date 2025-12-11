@@ -70,3 +70,10 @@
     <img src="https://spotify-currently-playing-track.vercel.app/api" alt="Pahina — Cup of Joe">
   </a>
 </p>
+
+**Learning:**
+
+<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
