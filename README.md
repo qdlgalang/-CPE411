@@ -64,11 +64,9 @@
 </tr></tbody>
 </table>
 <hr>
-
 <p>:musical_note: I’m currently listening:</p>
 <p>
   <a href="https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-currently-playing-track.vercel.app/api" alt="Pahina — Cup of Joe">
   </a>
 </p>
-
