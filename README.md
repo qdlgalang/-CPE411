@@ -24,15 +24,17 @@
 
 ---
 
+
 ### 🎧 Currently Vibing To
-<p align="center">
-  🎵 I’m currently listening:
-</p>
-<p align="center">
-  <a href="https://open.spotify.com/track/2GBgiuXwY1KzJMA0gSAr9J?si=1fb7577e7c4f4b70" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" alt="Spotify Now Playing - R&B Vibes">
-  </a>
-</p>
+<div align="center">
+
+<!-- Live Spotify Widget -->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" alt="Spotify Now Playing" />
+</a>
+
+</div>
+
 
 ---
 
