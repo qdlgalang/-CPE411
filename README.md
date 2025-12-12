@@ -29,8 +29,8 @@
   🎵 I’m currently listening:
 </p>
 <p align="center">
-  <a href="https://open.spotify.com/playlist/YOUR_RNB_PLAYLIST_ID" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-currently-playing-track.vercel.app/api?theme=novatorem&bar_color=00ffff&bar_color_cover=true" alt="Spotify Now Playing - R&B Vibes">
+  <a href="https://open.spotify.com/track/2GBgiuXwY1KzJMA0gSAr9J?si=1fb7577e7c4f4b70" target="_blank" rel="noopener noreferrer">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" alt="Spotify Now Playing - R&B Vibes">
   </a>
 </p>
 
@@ -58,20 +58,16 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🌌 GitHub Activity
 <div align="center">
 
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Dominique&show_icons=true&theme=radical&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=000000&hide_border=false&border_radius=15" 
-alt="GitHub Stats" height="180" style="box-shadow:0 0 20px #00FFFF; margin:10px;"/>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dominique&theme=react-dark&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 
-<!-- Streak Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dominique&theme=radical&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=000000&hide_border=false&border_radius=15" 
-alt="GitHub Streak" height="180" style="box-shadow:0 0 20px #FF00FF; margin:10px;"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique&layout=compact&theme=radical&title_color=FF00FF&text_color=FFFFFF&bg_color=000000&hide_border=false&border_radius=15" 
-alt="Top Languages" height="180" style="box-shadow:0 0 20px #00FFFF; margin:10px;"/>
+<!-- Dynamic Badges -->
+![Followers](https://img.shields.io/github/followers/Dominique?style=for-the-badge&color=00FFFF&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Dominique?style=for-the-badge&color=FF00FF&label=STARS)
+![Repos](https://img.shields.io/badge/Public%20Repos-arcade%20mode-8A2BE2?style=for-the-badge)
 
 </div>
 
