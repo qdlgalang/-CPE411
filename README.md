@@ -23,65 +23,22 @@
 - 🎨 **Dashboard Design for Clarity + Impact**  
 - 🎶 **R&B Music Enthusiast**  
 - 🌌 **Retro Neon + Pixel Art Lover**  
-- 🎧 **Playlist Curator**
+- 🎧 **Spotify Playlist Curator**
 
 ---
 
 ### 🎧 Currently Vibing To
-<!-- Music Card: Justin Bieber - Daisies (YouTube Music) -->
-<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f1020"/>
-      <stop offset="1" stop-color="#1b1f33"/>
-    </linearGradient>
-    <filter id="blur" x="-10%" y="-10%" width="120%" height="120%">
-      <feGaussianBlur stdDeviation="6"/>
-    </filter>
-  </defs>
+<div align="center">
 
-  <!-- Background + glow -->
-  <rect x="0" y="0" width="420" height="120" rx="16" fill="url(#g)"/>
-  <rect x="0" y="0" width="420" height="120" rx="16" fill="#ff0055" opacity="0.08" filter="url(#blur)"/>
+<!-- Live Spotify Widget -->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" alt="Spotify Now Playing" />
+</a>
 
-  <!-- Album art -->
-  <clipPath id="artClip"><rect x="12" y="12" width="96" height="96" rx="12"/></clipPath>
-  <image href="https://raw.githubusercontent.com/your-user/your-repo/main/assets/justin-bieber-swag.jpg"
-         x="12" y="12" width="96" height="96" clip-path="url(#artClip)" preserveAspectRatio="xMidYMid slice"/>
+<p><i>Currently vibing to R&B beats 🎶</i></p>
 
-  <!-- Text -->
-  <text x="122" y="38" fill="#ffffff" font-size="20" font-family="Segoe UI, system-ui" font-weight="700">
-    Daisies
-  </text>
-  <text x="122" y="62" fill="#ffb3d9" font-size="14" font-family="Segoe UI, system-ui" font-weight="600">
-    Justin Bieber
-  </text>
-  <text x="122" y="84" fill="#98ab83" font-size="13" font-family="Segoe UI, system-ui">
-    Swag Album • 3:44
-  </text>
+</div>
 
-  <!-- Progress bar -->
-  <rect x="122" y="96" width="220" height="6" rx="3" fill="#2a2f4a"/>
-  <rect x="122" y="96" width="88" height="6" rx="3" fill="#ff80bf"/>
-
-  <!-- Controls -->
-  <g transform="translate(352,46)">
-    <circle cx="0" cy="0" r="14" fill="#242843"/>
-    <path d="M -4,-1 C -4,-3 -2,-4 0,-2 C 2,-4 4,-3 4,-1 C 4,1 2,3 0,5 C -2,3 -4,1 -4,-1 Z"
-          fill="#ff4d88"/>
-  </g>
-  <g transform="translate(352,80)">
-    <circle cx="0" cy="0" r="14" fill="#ff0055"/>
-    <polygon points="-4,-6 -4,6 8,0" fill="#081315"/>
-  </g>
-
-  <!-- Equalizer accent -->
-  <g transform="translate(312,34)">
-    <rect x="0" y="0" width="3" height="24" rx="1.5" fill="#ff80bf"/>
-    <rect x="6" y="6" width="3" height="18" rx="1.5" fill="#ff90cc"/>
-    <rect x="12" y="12" width="3" height="12" rx="1.5" fill="#ffd3da"/>
-  </g>
-</svg>
 ---
 
 ### 🚀 Tech Stack
@@ -99,11 +56,11 @@
 <!-- GitHub -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="60" height="60"/>  
 
-<!-- Music -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Youtube_music_icon.svg" alt="YouTube Music Logo" width="60" height="60"/>  
+<!-- Spotify -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify Logo" width="60" height="60"/>  
 
 <p align="center">
-  <sub>Python</sub> • <sub>C++</sub> • <sub>Cisco</sub> • <sub>GitHub</sub> • <sub>YouTube Music</sub>
+  <sub>Python</sub> • <sub>C++</sub> • <sub>Cisco</sub> • <sub>GitHub</sub> • <sub>Spotify</sub>
 </p>
 
 </div>
