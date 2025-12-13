@@ -30,26 +30,28 @@
 ## 🎧 Currently Vibing To
 <div align="center">
 
-  <!-- Custom Spotify Player Visual -->
-  <table style="border-radius:15px; background-color:#000000; padding:15px;" width="500">
-    <tr>
-      <!-- Album Cover -->
-      <td>
-        <img src="https://s.yimg.com/ny/api/res/1.2/esUkVm8m.gseKQXOMI5xig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk0ODtjZj13ZWJw/https://media.zenfs.com/en/complex_131/042a16a8f862b672b0e484282abfe6b0" 
-             alt="Album Cover" width="120" style="border-radius:10px;"/>
-      </td>
+  <!-- Neon Spotify Player Card -->
+  <div style="background:#000000; border-radius:15px; padding:20px; width:320px; box-shadow:0 0 20px #00FFFF; font-family:'Segoe UI', sans-serif;">
+    
+    <!-- Album Cover -->
+    <img src="https://s.yimg.com/ny/api/res/1.2/esUkVm8m.gseKQXOMI5xig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk0ODtjZj13ZWJw/https://media.zenfs.com/en/complex_131/042a16a8f862b672b0e484282abfe6b0" 
+         alt="Album Cover" width="100%" style="border-radius:10px; margin-bottom:15px;"/>
 
-      <!-- Song Info -->
-      <td style="color:#00FFFF; font-family:Arial; padding-left:15px;">
-        <h3 style="margin:0; color:#00FFFF;">Daisies</h3>
-        <p style="margin:0; color:#FF00FF;">Justin Bieber</p>
-        <p style="margin:0; font-size:12px; color:#8A2BE2;">Now Playing 🎶</p>
-      </td>
-    </tr>
-  </table>
+    <!-- Song Info -->
+    <div style="text-align:left; color:#00FFFF;">
+      <h3 style="margin:0; font-size:20px;">Daisies</h3>
+      <p style="margin:0; color:#FF00FF; font-size:16px;">Justin Bieber</p>
+      <p style="margin-top:5px; font-size:12px; color:#8A2BE2;">Now Playing 🎶</p>
+    </div>
 
-  <!-- Equalizer Bars -->
-  <img src="https://raw.githubusercontent.com/EricaNeonAssets/equalizer/main/equalizer-bars.svg" alt="Equalizer Animation" width="400"/>
+    <!-- Equalizer Bars -->
+    <div style="margin-top:15px;">
+      <img src="https://raw.githubusercontent.com/EricaNeonAssets/equalizer/main/equalizer-bars.svg" alt="Equalizer Animation" width="100%"/>
+    </div>
+
+  </div>
+
+  <p><i>Currently vibing to R&B beats 🎶</i></p>
 
 </div>
 ---
