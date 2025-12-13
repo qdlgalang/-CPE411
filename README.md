@@ -1,4 +1,4 @@
-<!-- ✨ Neon Theme GitHub Profile ✨ -->
+<!-- ✨ Neon Professional GitHub Profile ✨ -->
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ---
 
-### ⚡ About Me
+## ⚡ About Me
 - 👤 **Age:** 19  
 - 📍 **Location:** Mandaluyong City, Philippines  
 - 🎓 **Student at TIP**  
@@ -27,7 +27,7 @@
 
 ---
 
-### 🎧 Currently Vibing To
+## 🎧 Currently Vibing To
 <div align="center">
 
 <!-- Live Spotify Widget -->
@@ -35,28 +35,22 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" alt="Spotify Now Playing" />
 </a>
 
+<!-- Professional Equalizer Bars -->
+<img src="https://raw.githubusercontent.com/EricaNeonAssets/equalizer/main/equalizer-bars.svg" alt="Equalizer Animation" width="400"/>
+
 <p><i>Currently vibing to R&B beats 🎶</i></p>
 
 </div>
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 <div align="center">
 
-<!-- Python -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="60" height="60"/>  
-
-<!-- C++ -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="60" height="60"/>  
-
-<!-- Cisco -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco Logo" width="80" height="60"/>  
-
-<!-- GitHub -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="60" height="60"/>  
-
-<!-- Spotify -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify Logo" width="60" height="60"/>  
 
 <p align="center">
@@ -67,16 +61,13 @@
 
 ---
 
-### 🌌 GitHub Activity
+## 🌌 GitHub Activity
 <div align="center">
 
-<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dominique&theme=react-dark&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 
-<!-- Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=Dominique&show_icons=true&theme=radical&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=000000" />
 
-<!-- Dynamic Badges -->
 ![Followers](https://img.shields.io/github/followers/Dominique?style=for-the-badge&color=00FFFF&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/Dominique?style=for-the-badge&color=FF00FF&label=STARS)
 
@@ -84,7 +75,7 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com)  
@@ -96,7 +87,7 @@
 
 ---
 
-### 👾 Profile Visitors
+## 👾 Profile Visitors
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Dominique&color=00FFFF&style=for-the-badge&label=VISITORS)  
