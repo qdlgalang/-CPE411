@@ -30,9 +30,9 @@
 ## 🎧 Currently Vibing To
 <div align="center">
 
-<!-- Live Spotify Widget -->
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" alt="Spotify Now Playing" />
+<!-- Live Spotify Widget with your ID -->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31egrxaawaehyf4ox6zilflco4qu&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31egrxaawaehyf4ox6zilflco4qu&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" alt="Spotify Now Playing" />
 </a>
 
 <!-- Animated Equalizer Bars -->
@@ -105,7 +105,8 @@
 ---
 
 ## 🐍 Contribution Snake
-![GitHub Snake](https://github.com/Dominique/Dominique/blob/output/github-contribution-grid-snake.svg)
+<!-- Replace 'Dominique' with your GitHub username once you set up the Action -->
+![GitHub Snake](https://raw.githubusercontent.com/Dominique/Dominique/output/github-contribution-grid-snake.svg)
 
 ---
 
