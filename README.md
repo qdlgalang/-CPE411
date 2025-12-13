@@ -30,18 +30,28 @@
 ## 🎧 Currently Vibing To
 <div align="center">
 
-<!-- Live Spotify Widget with your ID -->
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31egrxaawaehyf4ox6zilflco4qu&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31egrxaawaehyf4ox6zilflco4qu&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" alt="Spotify Now Playing" />
-</a>
+  <!-- Custom Spotify Player Visual -->
+  <table style="border-radius:15px; background-color:#000000; padding:15px;" width="500">
+    <tr>
+      <!-- Album Cover -->
+      <td>
+        <img src="https://s.yimg.com/ny/api/res/1.2/esUkVm8m.gseKQXOMI5xig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk0ODtjZj13ZWJw/https://media.zenfs.com/en/complex_131/042a16a8f862b672b0e484282abfe6b0" 
+             alt="Album Cover" width="120" style="border-radius:10px;"/>
+      </td>
 
-<!-- Animated Equalizer Bars -->
-<img src="https://raw.githubusercontent.com/EricaNeonAssets/equalizer/main/equalizer-bars.svg" alt="Equalizer Animation" width="400"/>
+      <!-- Song Info -->
+      <td style="color:#00FFFF; font-family:Arial; padding-left:15px;">
+        <h3 style="margin:0; color:#00FFFF;">Daisies</h3>
+        <p style="margin:0; color:#FF00FF;">Justin Bieber</p>
+        <p style="margin:0; font-size:12px; color:#8A2BE2;">Now Playing 🎶</p>
+      </td>
+    </tr>
+  </table>
 
-<p><i>Currently vibing to R&B beats 🎶</i></p>
+  <!-- Equalizer Bars -->
+  <img src="https://raw.githubusercontent.com/EricaNeonAssets/equalizer/main/equalizer-bars.svg" alt="Equalizer Animation" width="400"/>
 
 </div>
-
 ---
 
 ## 🚀 Tech Stack
