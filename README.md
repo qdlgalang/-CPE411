@@ -30,19 +30,27 @@
 ## 🎧 Currently Vibing To
 <div align="center">
 
-<!-- Album Cover -->
-<img src="https://s.yimg.com/ny/api/res/1.2/esUkVm8m.gseKQXOMI5xig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk0ODtjZj13ZWJw/https://media.zenfs.com/en/complex_131/042a16a8f862b672b0e484282abfe6b0" alt="Album Cover" width="250"/>
+<!-- 🎧 Neon Spotify Player -->
+<table style="background-color:#000000; border-radius:12px; padding:15px; width:320px; font-family:Arial, sans-serif; color:#00FFFF;">
+  <tr>
+    <td align="center">
+      <!-- Album Title -->
+      <p style="margin:5px 0; font-size:18px;"><strong>Daisies</strong></p>
+      <!-- Artist -->
+      <p style="margin:0; font-size:14px; color:#FF00FF;"><em>Justin Bieber</em></p>
+      <!-- Status -->
+      <p style="margin:5px 0; font-size:12px; color:#8A2BE2;">🎶 Now Playing 🎶</p>
+      <!-- Equalizer Bars (ASCII style) -->
+      <pre style="margin:10px 0; font-size:10px; color:#00FFFF;">
+▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▃ ▂ ▁
+      </pre>
+    </td>
+  </tr>
+</table>
 
-<!-- Song Info -->
-<p><strong style="color:#00FFFF; font-size:20px;">Daisies</strong></p>
-<p><em style="color:#FF00FF;">Justin Bieber</em></p>
-<p style="color:#8A2BE2;">🎶 Now Playing 🎶</p>
-
-<!-- Equalizer Animation -->
-<img src="https://raw.githubusercontent.com/EricaNeonAssets/equalizer/main/equalizer-bars.svg" alt="Equalizer Animation" width="300"/>
+<p><i>Currently vibing to R&B beats 🎶</i></p>
 
 </div>
----
 
 ## 🚀 Tech Stack
 <div align="center">
