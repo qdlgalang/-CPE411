@@ -1,4 +1,4 @@
-<!-- ✨ Neon Professional GitHub Profile ✨ -->
+<!-- ✨ Neon Interactive GitHub Profile ✨ -->
 
 <div align="center">
 
@@ -35,7 +35,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" alt="Spotify Now Playing" />
 </a>
 
-<!-- Professional Equalizer Bars -->
+<!-- Animated Equalizer Bars -->
 <img src="https://raw.githubusercontent.com/EricaNeonAssets/equalizer/main/equalizer-bars.svg" alt="Equalizer Animation" width="400"/>
 
 <p><i>Currently vibing to R&B beats 🎶</i></p>
@@ -73,6 +73,12 @@
 
 </div>
 
+<details>
+  <summary>📊 More GitHub Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique&layout=compact&theme=radical&title_color=00ffff&text_color=ffffff&bg_color=000000" />
+</details>
+
 ---
 
 ## 🌐 Connect With Me
@@ -95,6 +101,11 @@
 <p><i>👾 You’re visitor number… thanks for dropping by!</i></p>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+![GitHub Snake](https://github.com/Dominique/Dominique/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
